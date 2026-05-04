@@ -1,11 +1,13 @@
 # OS Spawned and Varied #
 #########################
 package-lock.json
+depedit_complete.ts
 .DS_Store
 .DS_Store?
 .env
 .npmignore
 .gitignore
+/legacy/*
 
 # Node.js Files #
 ########################
