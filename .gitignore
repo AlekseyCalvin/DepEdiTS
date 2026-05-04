@@ -1,0 +1,13 @@
+# OS Spawned and Varied #
+#########################
+package-lock.json
+.DS_Store
+.DS_Store?
+.env
+.npmignore
+.gitignore
+
+# Node.js Files #
+########################
+/node_modules/*
+/dist/*
